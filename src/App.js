@@ -29,6 +29,11 @@ const App = () => {
           <h2>Men's</h2>
           <p>Shop Now</p>
         </div>
+        {/* <img /> */}
+        <div className='category-body-container'>
+          <h2>Men's</h2>
+          <p>Shop Now</p>
+        </div>
       </div>
     </div>
   );
